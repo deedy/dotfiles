@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/deedy/Downloads/Java/Sudoku'
+let g:netrw_dirhist_2='/Users/deedy/Dropbox/DataSets/StockMarket/nyse'
+let g:netrw_dirhist_3='/Users/deedy/Dev/Play/Connect4AI/public'
